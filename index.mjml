@@ -3,7 +3,7 @@
 <mj-section>
 <mj-column>
 <mj-text align="center" font-size="20px" color="#000000" font-family="ariel">
-       Abrir no browser.
+       Abrir no <a href="https://adrianaalmeidaa.github.io/NewLetterEE/" >browser.</a>
 </mj-text>
 <mj-divider border-color="#000000"></mj-divider>
 </mj-column>
@@ -16,8 +16,10 @@
 </mj-section>
 <mj-section padding="0">
 <mj-column>
+  <mj-image src= ".\imagens\portugal.png" width="25px" align="left"></mj-image>
 <mj-text font-size="20px" color="#000000" font-family="ariel">Caros encarregados de educação da turma 12ºPSI e PEI, venho por este meio informar-vos do horario do atendimento dos encarregados de educaçao, deixo aqui anexado os mesmos:
 </mj-text>
+    <mj-image src= ".\imagens\uk.png" width="25px" align="left"></mj-image>
 <mj-text font-size="20px" color="#000000" f´
         font-family="ariel">Dear parents and carers of the 12ºPSI and PEI class, I would like to inform you of the timetable for the attendance of parents and carers, which is attached here:
 </mj-text>
@@ -25,13 +27,27 @@
 </mj-section>
 <mj-section padding="0">
 <mj-column>
-
+  <mj-image src= ".\imagens\schedule.png" width="100px" align="center"></mj-image>
+<mj-table>
+  <tr>
+<td style="padding: 0 15px 0 0;" align="center">Quarta-Feira</td>
+<td style="padding: 0 15px;" align="center">12:10 - 12:55</td>
+</tr>
+<tr style="border-bottom:4px solid #ecedee;text-align:left;padding:15px 0;">
+</tr>
+<tr>
+<td style="padding: 0 15px 0 0;"align="center">Quinta-Feira</td>
+<td style="padding: 0 15px;" align="center">16:20 - 17:05</td>
+</tr>	
+</mj-table>
 </mj-column>
 </mj-section>
  <mj-section>
 <mj-column>
+    <mj-image src= ".\imagens\portugal.png" width="25px" align="left"></mj-image>
 <mj-text font-size="20px" color="#000000" font-family="ariel">O horario de atendimento serve para os encarregados de educação esclarecerem as suas  duvidas sobre assuntos relacionados com o funcionamento das aulas, receber informações sobre a evolução dos seus educandos e/ou qualquer outro assunto relacionado com a escola.
 </mj-text>
+    <mj-image src= ".\imagens\uk.png" width="25px" align="left"></mj-image>
 <mj-text font-size="20px" color="#000000" font-family="ariel">The opening hours are for parents and guardians to clarify any doubts they may have about the running of classes, to receive information about their child's progress and/or any other matter related to the school.
 </mj-text>
 </mj-column>
